@@ -11,6 +11,7 @@ Hệ thống có thể phát hiện và ghi nhận các hành vi tấn công nh�
 - Ping ICMP
 - Port Scanning
 - Brute Force SSH
+- DDOS
 
 ## 🖼️ Kiến trúc tổng thể
 
