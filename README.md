@@ -20,21 +20,13 @@ Hệ thống có thể phát hiện và ghi nhận các hành vi tấn công nh�
 snort-elk-lab/
 ├── README.md
 ├── INSTALL.md
-├── config/
-│ ├── snort/
-│ │ ├── snort.conf
-│ │ └── rules/local.rules
-│ ├── filebeat.yml
-│ ├── logstash.conf
-│ ├── elasticsearch.yml
-│ └── kibana.yml
 ├── attack-scenarios/
 │ ├── pingicmp.md
-│ ├── BruteforceSSH.md
+│ ├── BruteForceSSH.md
 │ └── portscan.md
+│ └──ddos.md
 ├── scripts/
 │ └── block_ip.py
-└── dashboards/
 ## ▶️ Bắt đầu
 
 1. Xem hướng dẫn cài đặt tại [`INSTALL.md`](INSTALL.md)
